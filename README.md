@@ -12,3 +12,4 @@
 | Nigate | OpenSource Mac NTFS Tools | / | <a href="https://github.com/hoochanlon/Free-NTFS-for-Mac/releases">Nigate</a> | 2026.04.12 | No |
 | CleanupBuddy | Mac clean keyboard | 1.0.0 | <a href="https://github.com/Zhoums396/CleanupBuddy/releases">CleanupBuddy</a> | 2026.04.12 | No |
 | HoudahSpot | Advanced File Search for Mac | 6.8.1 | <a href="https://github.com/fb0sh/dmg-pkg/releases/tag/HoudahSpot">HoudahSpot6.8.1.dmg</a> | 2026.04.13 | Yes |
+| BetterDisplay | Manage your displays | 4.0.4 | <a href="https://github.com/fb0sh/dmg-pkg/releases/tag/BetterDisplay">BetterDisplay.4.0.4.MacWk.CN.7z</a> | 2026.5.26 | Yes |
