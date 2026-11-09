@@ -15,5 +15,4 @@
 | BetterDisplay | Manage your displays | 4.0.4 | <a href="https://github.com/fb0sh/dmg-pkg/releases/tag/BetterDisplay">BetterDisplay.4.0.4.MacWk.CN.7z</a> | 2026.5.26 | Yes |
 | Jettison | Eject all portable | 1.9.6 | <a href="https://github.com/fb0sh/dmg-pkg/releases/tag/Jettison1.9.6">Jettison1.9.6 [TNT].dmg</a> | 2026.7.3 | Yes |
 | Mole GUI | Optimize All in One | 1.11.0 | <a href="https://github.com/fb0sh/dmg-pkg/releases/tag/mole">Mole v1.11.0 [www.getmacapp.com].dmg</a> | 2026.7.28 | Yes |
-| Cross Over | translation | 26.3 | <a href="https://github.com/fb0sh/dmg-pkg/releases/tag/CrossOver">Cross.Over.dmg
-</a> | 2026.11.9 | Yes |
+| Cross Over | translation | 26.3 | <a href="https://github.com/fb0sh/dmg-pkg/releases/tag/CrossOver">Cross.Over.dmg</a> | 2026.11.9 | Yes |
