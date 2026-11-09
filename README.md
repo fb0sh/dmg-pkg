@@ -16,3 +16,4 @@
 | Jettison | Eject all portable | 1.9.6 | <a href="https://github.com/fb0sh/dmg-pkg/releases/tag/Jettison1.9.6">Jettison1.9.6 [TNT].dmg</a> | 2026.7.3 | Yes |
 | Mole GUI | Optimize All in One | 1.14.0 | <a href="https://github.com/fb0sh/dmg-pkg/releases/tag/mole">Mole.v1.14.dmg</a> | 2026.11.9 | Yes |
 | Cross Over | translation | 26.3 | <a href="https://github.com/fb0sh/dmg-pkg/releases/tag/CrossOver">Cross.Over.dmg</a> | 2026.11.9 | Yes |
+| Typora | note | 1.14.15| <a href="https://github.com/fb0sh/dmg-pkg/releases/tag/typora">Typora1.14.15.dmg</a> | 2026.11.9 | Yes |
